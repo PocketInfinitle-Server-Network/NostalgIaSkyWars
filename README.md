@@ -1,6 +1,6 @@
 ![](https://kotyara.nekoweb.org/images/nostalgiacore.png)
 
-# NostalgiaCore
+# NostalgiaSkyWars
 
 NostalgiaSkyWars is a fork of PocketSkyWars, which fixes bugs of PocketSkyWars, and adds new content
 
